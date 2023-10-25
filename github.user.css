@@ -1,0 +1,17 @@
+.react-directory-remove-file-icon {
+    /* remove top right 'Add file' icon in repository view */
+    display: none !important;
+}
+
+.container-xl {
+    /* remove margins in repository view */
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+    max-width: unset !important;
+}
+
+.hrLuxA {
+    /* file column width in repository view */
+    width: 30% !important;
+}
+
