@@ -8,7 +8,7 @@
     display: none;
 }
 
-.prc-PageLayout-PaneWrapper-pHPop {
+.prc-PageLayout-PaneWrapper-pHPop.pr-2 {
     /* 'About' pane width */
     width: 25%;
 }
