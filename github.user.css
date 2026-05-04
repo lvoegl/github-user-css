@@ -1,17 +1,19 @@
-.react-directory-remove-file-icon {
-    /* remove top right 'Add file' icon in repository view */
-    display: none !important;
-}
-
-.container-xl {
-    /* remove margins in repository view */
-    margin-right: 0 !important;
-    margin-left: 0 !important;
-    max-width: unset !important;
-}
-
-.hrLuxA {
+.DirectoryContent-module__Box_1__fuSBO {
     /* file column width in repository view */
-    width: 30% !important;
+    width: 32%;
 }
 
+#_R_a34ql3al1d_ {
+    /* remove search bar 'Add file' button */
+    display: none;
+}
+
+.pr-2 {
+    /* 'About' pane width */
+    width: 25%;
+}
+
+.prc-PageLayout-Pane-AyzHK {
+    /* distance between repository and 'About' panes */
+    padding-left: 1rem;
+}
